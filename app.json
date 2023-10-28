@@ -25,6 +25,15 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d0b5db37-be32-4732-83ff-c5a350188d36"
+      }
+    },
+    "owner": "icarusimageju",
+    "plugins": [
+      "react-native-ble-plx"
+    ]
   }
 }
